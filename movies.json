@@ -1,0 +1,42 @@
+var movies = `[{
+        "ID": "1",
+        "title": "Mean Girls",
+        "description": "Cady joins a new public school and befriends Janis and Damian. They warn her to avoid the Plastics, a group led by Regina, but things get worse when she falls in love with Aaron, Regina's ex-lover.",
+        "img": "<img src='img/meangirls.jpg'</img>",
+        "likes": "0"
+    },
+    {
+        "ID": "2",
+        "title": "Fight Club",
+        "description": "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+        "img": "<img src='img/fightclub.jpg'</img>",
+        "likes": "0"
+    },
+    {
+        "ID": "3",
+        "title": "The Green Book",
+        "description": "Amidst rampant racism in the 1960s southern America, an African American pianist hires an Italian American bouncer to drive him through his venues. They come closer in the course of their journey.",
+        "img": "<img src='img/greenbook.jpg'</img>",
+        "likes": "0"
+    },
+    {
+        "ID": "4",
+        "title": "JoJo Rabbit",
+        "description": "Jojo is a lonely German boy who discovers that his single mother is hiding a Jewish girl in their attic. Aided only by his imaginary friend -- Adolf Hitler -- Jojo must confront his blind nationalism as World War II continues to rage on.",
+        "img": "<img src='img/jojorabbit.jpg'</img>",
+        "likes": "0"
+    },{
+        "ID": "5",
+        "title": "Parasite",
+        "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "img": "<img src='img/parasite.jpg'</img>",
+        "likes": "0"
+    },
+    {
+        "ID": "6",
+        "title": "Sound of Music",
+        "description": "Maria, an aspiring nun, is sent as a governess to take care of seven motherless children. Soon her jovial and loving nature tames their hearts and the children become fond of her.",
+        "img": "<img src='img/soundofmusic.jpg'</img>",
+        "likes": "0"
+    } 
+]`;

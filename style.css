@@ -1,0 +1,129 @@
+*{
+	margin: 0 auto;
+}
+
+.topHead {
+	background-color: black;
+	color: white;
+	background-color: black;
+	font-size: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.topBar{
+	background-color: darkgrey;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	padding: 5px 0px 0px 20px;
+}
+
+.topBar a{
+	color: white;
+}
+
+#bigBox{
+	background-color: #1c2228;
+	padding-bottom: 60px;
+}
+
+#movieHeader{
+	font-size: 35px;
+	text-align: center;
+	padding-left: 250px;
+	padding-top: 40px;
+}
+
+#sortHeader{
+	font-size: 20px;
+	display: flex;
+	align-items: flex-end;
+}
+
+.col-lg-5{
+	margin-top: 40px;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+}
+
+.column{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.column img{
+	border: 1px solid #1c2228;
+	border-radius: 5px;
+	width: 10em;
+	height: 15em;
+}
+
+.column p{
+	color: silver;
+	padding-left: 20px;
+}
+
+.title {
+	font-size: 30px;
+}
+
+.ratingBox {
+	display: flex;
+	justify-content: flex-end;
+	height: 60px;
+}
+
+#like{
+	color: #3E7C01;
+	font-size: 25px;
+	padding-left: 280px;
+	display: flex;
+	align-items: flex-end;
+}
+
+#btn {
+	display: flex;
+	align-items: flex-end;
+	background-color: inherit;
+}
+
+button {
+	width: 30px;
+	height: 30px;
+	background-color: inherit;
+	border: none;
+	margin-right: 20px;
+	padding-right: 20px;
+}
+
+#clickme img{
+	display: flex;
+	justify-content: flex-start;
+	width: 20px;
+	height: 20px;
+	border: none;
+}
+
+.rating {
+	background-color: #3E7C01;
+	color: white;
+	font-size: 20px;
+	width: 60px;
+	height: 60px;
+	border-radius: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
